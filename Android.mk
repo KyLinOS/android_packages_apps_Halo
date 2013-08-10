@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2012 MoKee OpenSource Project
+# Copyright (C) 2012 KyLin OS Project
 #
 # Licensed under the GNU GPLv2 license
 #
